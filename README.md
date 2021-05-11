@@ -2,9 +2,9 @@
 Yapılacaklar Listesi Mobil Uygulama 
 Bu projede Vue.js Quasar Frameworkü kullanarak android için todo uygulaması geliştirdim. Uygulamaya girilen veriyi Localstorage kayıtediyor. Girilen veriyi düzenleme(Sola kaydırarak) yapabiliyorsunuz. Görevi tamamlamak için sağa kaydırmak yetiyor.
 
-<img src="https://github.com/ulascannacaksiz/AndoidtodoAppPulibc/blob/main/ScreenShots/1.jpg">
-<img src="https://github.com/ulascannacaksiz/AndoidtodoAppPulibc/blob/main/ScreenShots/2.jpg">
-<img src="https://github.com/ulascannacaksiz/AndoidtodoAppPulibc/blob/main/ScreenShots/3.jpg">
+<img src="https://github.com/ulascannacaksiz/AndoidtodoAppPulibc/blob/main/ScreenShots/1.jpg" height="50%">
+<img src="https://github.com/ulascannacaksiz/AndoidtodoAppPulibc/blob/main/ScreenShots/2.jpg" height="50%">
+<img src="https://github.com/ulascannacaksiz/AndoidtodoAppPulibc/blob/main/ScreenShots/3.jpg" height="50%">
 Todo app with a quasar
 
 ## Install the dependencies
