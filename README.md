@@ -1,4 +1,7 @@
 # TodoApp (quasar-todo)
+Yapılacaklar Listesi Mobil Uygulama 
+Bu projede Vue.js Quasar Frameworkü kullanarak android için todo uygulaması geliştirdim. Uygulamaya girilen veriyi Localstorage kayıtediyor. Girilen veriyi düzenleme(Sola kaydırarak) yapabiliyorsunuz. Görevi tamamlamak için sağa kaydırmak yetiyor.
+
 
 Todo app with a quasar
 
